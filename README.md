@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rayal khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayal khatri" height="30" width="40" /></a>
-<a href="https://fb.com/rayal-kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayal-kc" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ec.lairs.79/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayal-kc" height="30" width="40" /></a>
 <a href="https://instagram.com/ec_lairs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ec_lairs" height="30" width="40" /></a>
 <a href="https://discord.gg/Ec~Lairs#2974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ec~Lairs#2974" height="30" width="40" /></a>
 </p>
