@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayal-khatri&label=Profile%20views&color=0e75b6&style=flat" alt="rayal-khatri" /> </p>
 
 
-- 🔭 I’m currently working on [Karmachari WebApp](https://github.com/Rayal-Khatri/Karmachari-BackEnd)
+- 🔭 I’m currently working on [Daraz Scraper](![image](https://github.com/user-attachments/assets/4301a104-b3ae-4dae-8867-380481030b2c))
 
-- 🌱 I’m currently learning **JavaScript, Django**
+- 🌱 I’m currently learning **Data Preprocessing & Visualization**
 
 - 📫 How to reach me **kcrayalgw@gmail.com**
 
