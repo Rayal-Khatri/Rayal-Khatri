@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Daraz Scraper](![image](https://github.com/user-attachments/assets/4301a104-b3ae-4dae-8867-380481030b2c))
 
-- 🌱 I’m currently learning **Data Preprocessing & Visualization**
+- 🌱 I’m currently learning **TABLEAU & DATAWAREHOUSE**
 
 - 📫 How to reach me **kcrayalgw@gmail.com**
 
