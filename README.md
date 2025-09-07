@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **kcrayalgw@gmail.com**
 
-- 📄 Get my [Resume](https://drive.google.com/file/d/1ww9agugwk1gQ-sISUXC5M3bBSd5RVO--/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rayal-khatri-8850b9257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayal-khatri-8850b9257" height="30" width="40" /></a>
